@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <!-- Lumen favicon. Mirrors BrandMark in components/ui/icons.tsx — keep in sync. -->
+  <rect width="24" height="24" rx="7" fill="#4f46e5"/>
+  <path d="M12 6.5 13.6 10l3.9.4-2.9 2.6.9 3.8L12 14.8 8.5 16.8l.9-3.8L6.5 10.4 10.4 10 12 6.5Z" fill="#fff"/>
+</svg>
